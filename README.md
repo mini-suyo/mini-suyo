@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=mini-suyo&fontColor=ffffff&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&text=mini-suyo&fontColor=ffffff&height=250)
