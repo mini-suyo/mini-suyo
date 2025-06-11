@@ -37,9 +37,9 @@
 ### 🛠 Tools & Collaboration
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -70,9 +70,7 @@
   <a href="https://github.com/mini-suyo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark"/>
   </a>
-</p>
-<p align="center">
-  <a href="https://solved.ac/profile/mini-suyo" target="_blank">
+  <a href="https://solved.ac/profile/sencroz" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mini-suyo" alt="solved.ac sencroz" />
   </a>
 </p>
