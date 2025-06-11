@@ -72,7 +72,7 @@
   </a>
   <br>
   <a href="https://solved.ac/profile/sencroz" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mini-suyo" alt="solved.ac sencroz" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
   </a>
 </p>
 
