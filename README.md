@@ -86,7 +86,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: minisuyo.dev@gmail.com
-- 📝 Blog: [https://velog.io/@mini_suyo/posts)
+- 📝 Blog: https://velog.io/@mini_suyo/posts
 
 ---
 
