@@ -30,7 +30,7 @@
 
 ### 🧩 Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="30"/>
 </p>
 
