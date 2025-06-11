@@ -19,22 +19,26 @@
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ### 🧩 Backend
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
 
 ### 🛠 Tools & Collaboration
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
@@ -54,44 +58,34 @@
 
 ## 📊 GitHub Stats & Algorthm Badges
 
-<p align="center">
+<p>
   <!-- GitHub stats 카드 -->
   <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark"/>
   </a>
   <br>
   <!-- Top Langs 카드 -->
   <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark"/>
   </a>
 </p>
 <p align="center">
   <a href="https://solved.ac/profile/mini-suyo" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mini-suyo" alt="solved.ac mini-suyo" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mini-suyo" alt="solved.ac sencroz" />
   </a>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13}
-
+- React 심화 (성능 최적화, 고급 상태관리, 데이터 패칭 전략, 컴포넌트 설계 패턴, SSR & 동시성 렌더링 등)
+- Spring Boot 기반 REST API 설계 및 연동
+- Next.js + TypeScript 조합으로의 전환
 ---
 
 ## 📫 Contact Me
-- :contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}
-- :contentReference[oaicite:17]{index=17}
-
----
-
-<p align="center">
-  Made with ❤️ by mini-suyo
-</p>
-tps://your-portfolio.com)
+- 📧 Email: minisuyo.dev@gmail.com
+- 📝 Blog: [https://velog.io/@mini_suyo/posts)
 
 ---
 
