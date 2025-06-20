@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by mini-suyo
+  Made with 💙 by mini-suyo
 </p>
