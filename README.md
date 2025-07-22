@@ -60,23 +60,33 @@
 
 ## 📊 GitHub Stats & Algorthm Badges
 
-<p>
-  <!-- GitHub stats 카드 -->
-  <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark"/>
-  </a>
-  <br>
-  <!-- Top Langs 카드 -->
-  <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark"/>
-  </a>
-  <br>
-  <a href="https://solved.ac/profile/sencroz" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
-  </a>
-</p>
-<!-- 귀여운 커밋츄 -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&character=c.png" class=""><img src="https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&character=c.png" alt="커밋츄" data-canonical-src="https://www.comitchu.shop/api/chu/test/dmswldk28" style="max-width: 100%;"></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mini-suyo">
+        <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mini-suyo">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/profile/sencroz" target="_blank">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&character=c.png" target="_blank">
+        <img src="https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&character=c.png" alt="커밋츄" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
