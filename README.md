@@ -75,6 +75,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
   </a>
 </p>
+<!-- 귀여운 커밋츄 -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6920e12bc0fc17a96ca74a1e3f1f9f2f9abb0a8b074ff1a0c89399e79ce63d5/68747470733a2f2f7777772e636f6d69746368752e73686f702f6170692f6368752f746573742f646d73776c646b3238" class=""><img src="https://camo.githubusercontent.com/a6920e12bc0fc17a96ca74a1e3f1f9f2f9abb0a8b074ff1a0c89399e79ce63d5/68747470733a2f2f7777772e636f6d69746368752e73686f702f6170692f6368752f746573742f646d73776c646b3238" alt="커밋츄" data-canonical-src="https://www.comitchu.shop/api/chu/test/dmswldk28" style="max-width: 100%;"></a>
 
 ---
 
