@@ -79,12 +79,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.comitchu.shop/api/chu/test/mini-suyo?background=flower.png&character=c.png" target="_blank">
-    <img src="https://www.comitchu.shop/api/chu/test/mini-suyo?background=flower.png&character=c.png" alt="커밋츄" />
+  <a href="https://www.comitchu.shop" target="_blank">
+    <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" width="1500" height="1500" />
   </a>
 </p>
-
-[![커밋츄](https://www.comitchu.shop/api/chu/mini-suyo)](https://www.comitchu.shop)
 
 
 ---
