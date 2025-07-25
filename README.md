@@ -84,7 +84,8 @@
   </a>
 </p>
 
-[![커밋츄](https://www.comitchu.shop/api/chu/mini-suyo)](https://www.comitchu.shop)
+[![커밋츄](https://www.comitchu.shop/api/chu/mini-suyo)](https://www.comitchu.shop){style="width:200px; height:200px;"}
+
 
 ---
 
