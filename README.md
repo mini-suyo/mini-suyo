@@ -80,8 +80,10 @@
 
 <p align="center">
   <a href="https://www.comitchu.shop" target="_blank">
-    <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" width="300" height="200" style="image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #33333350;" />
-  </a>
+    <div  style="image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #33333350;" >
+    <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" width="300" height="200"/>
+    </div>
+    </a>
 </p>
 
 
