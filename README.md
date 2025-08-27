@@ -1,7 +1,7 @@
-![CD843F09-0897-4ECE-A0BF-01A5802FD34D_1_201_a](https://github.com/user-attachments/assets/16935bbb-811d-4ddb-b887-b71d5296974a)
+<!-- ![CD843F09-0897-4ECE-A0BF-01A5802FD34D_1_201_a](https://github.com/user-attachments/assets/16935bbb-811d-4ddb-b887-b71d5296974a) -->
 
 
-<h1 align="center">Hi there, I'm mini-suyo 👋</h1>
+<h1 align="center">Hi there, I'm mini-suyo</h1>
 <p align="center">
   🌱 Frontend Developer | 📍 YongIn, South Korea
 </p>
@@ -58,31 +58,28 @@
 
 ---
 
-## 📊 GitHub Stats & Algorthm Badges
+## 📊 GitHub Stats & Algorithm Badges
 
-<p align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
   <a href="https://github.com/mini-suyo">
     <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/mini-suyo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark" alt="Top Languages" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://solved.ac/profile/sencroz" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://www.comitchu.shop" target="_blank">
     <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" width="300" height="200"/>
   </a>
-</p>
+
+</div>
+
 
 
 ---
@@ -90,7 +87,6 @@
 ## 🌱 Currently Learning
 - React 심화 (성능 최적화, 고급 상태관리, 데이터 패칭 전략, 컴포넌트 설계 패턴, SSR & 동시성 렌더링 등)
 - Spring Boot 기반 REST API 설계 및 연동
-- Next.js + TypeScript 조합으로의 전환
 ---
 
 ## 📫 Contact Me
