@@ -60,25 +60,26 @@
 
 ## 📊 GitHub Stats & Algorithm Badges
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<div align="center" style="display: grid;">
 
   <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/mini-suyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-
-  <a href="https://solved.ac/profile/sencroz" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mini-suyo&show_icons=true&theme=dark" alt="GitHub Stats" style="height:200px; width:auto;" />
   </a>
 
   <a href="https://www.comitchu.shop" target="_blank">
-    <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" width="300" height="200"/>
+    <img src="https://www.comitchu.shop/api/chu/mini-suyo" alt="커밋츄" style="height:200px; width:auto;" />
+  </a>
+
+  <a href="https://solved.ac/profile/sencroz" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sencroz" alt="solved.ac sencroz" style="height:200px; width:auto;" />
+  </a>
+
+  <a href="https://github.com/mini-suyo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-suyo&layout=compact&theme=dark" alt="Top Languages" style="height:200px; width:auto;" />
   </a>
 
 </div>
+
 
 
 
